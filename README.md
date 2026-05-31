@@ -1,3 +1,9 @@
+# superseded by lug-wine and lug-wine-experimental
+
+https://github.com/starcitizen-lug/lug-wine
+
+https://github.com/starcitizen-lug/lug-wine-experimental
+ 
 # mactan-sc-wine
 Wine runners with experimental wayland patches for StarCitizen
 
